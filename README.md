@@ -1,7 +1,7 @@
 # ISRA
 
-This package has two new layers of layered costmaps - temperature and radiation layer.
-It works on a Neobotix mp-700 robot developed by [Tom Bridgwater] and [Andy West].
+This package has two new layers of layered costmaps - temperature and radiation layer developed by [Tom Bridgwater] and [Andy West].
+It works on a Neobotix mp-700 robot.
 
 First add the my_ground_plane to your /home/user/.gazebo/models folder
 
