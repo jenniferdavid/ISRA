@@ -1,4 +1,4 @@
-# ISRA
+# ISRA - Internal State-based Risk Assessment
 
 This package has two new layers of layered costmaps - temperature and radiation layer developed by [Tom Bridgwater] and [Andy West].
 It works on a Neobotix mp-700 robot.
